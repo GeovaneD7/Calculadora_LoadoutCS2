@@ -1,4 +1,4 @@
-[{
+{
     "Defuser":{
         "categoria":"utilitaria", 
         "valor":400,
@@ -21,7 +21,7 @@
         "categoria":"utilitaria", 
         "valor":200,
         "imagem":"UTIL_Flashbang.webp", 
-        "lado":"ct"
+        "lado":"ambos"
     },
     "Smoke":{
         "categoria":"utilitaria", 
@@ -35,7 +35,7 @@
         "imagem":"UTIL_IncendGrenade.webp", 
         "lado":"ct"
     },
-    "molotov":{
+    "Molotov":{
         "categoria":"utilitaria", 
         "valor":400,
         "imagem":"UTIL_Molotov.webp", 
@@ -68,43 +68,43 @@
     "CZ":{
         "categoria":"pistol", 
         "valor":500,
-        "imagem":"WEAP_CZ75-Auto.webp", 
+        "imagem":"WEAP_CZ75_Auto.webp", 
         "lado":"ambos"
     },
-    "Five_Seven":{
+    "Five-Seven":{
         "categoria":"pistol", 
         "valor":500,
-        "imagem":"WEAP_Five-SeveN.webp", 
+        "imagem":"WEAP_Five_SeveN.webp", 
         "lado":"ct"
     },
-    "R8_Revolver":{
+    "R8-Revolver":{
         "categoria":"pistol", 
         "valor":600,
         "imagem":"WEAP_R8_Revolver.webp", 
         "lado":"ambos"
     },
-    "Desert_Eagle":{
+    "Desert-Eagle":{
         "categoria":"pistol", 
         "valor":700,
         "imagem":"WEAP_Desert_Eagle.webp", 
         "lado":"tr"
     },
-    "Ter_9":{
+    "Tec-9":{
         "categoria":"pistol", 
         "valor":500,
-        "imagem":"WEAP_Tec-9.webp", 
+        "imagem":"WEAP_Tec_9.webp", 
         "lado":"tr"
     },
-    "Mag_7":{
+    "Mag-7":{
         "categoria":"mid", 
         "valor":1300,
-        "imagem":"WEAP_MAG-7.webp", 
+        "imagem":"WEAP_MAG_7.webp", 
         "lado":"ct"
     },
     "Sawed_Off":{
         "categoria":"mid", 
         "valor":1100,
-        "imagem":"WEAP_Sawed-Off.webp", 
+        "imagem":"WEAP_Sawed_Off.webp", 
         "lado":"tr"
     },
     "Nova":{
@@ -122,7 +122,7 @@
     "PP_Bizon":{
         "categoria":"mid", 
         "valor":1400,
-        "imagem":"WEAP_PP-Bizon.webp", 
+        "imagem":"WEAP_PP_Bizon.webp", 
         "lado":"ambos"
     },
     "MP7":{
@@ -134,7 +134,7 @@
     "MP5":{
         "categoria":"mid", 
         "valor":1500,
-        "imagem":"WEAP_MP5-SD.webp", 
+        "imagem":"WEAP_MP5_SD.webp", 
         "lado":"ambos"
     },
     "MP9":{
@@ -152,7 +152,7 @@
     "UMP":{
         "categoria":"mid", 
         "valor":1200,
-        "imagem":"WEAP_UMP-45.webp", 
+        "imagem":"WEAP_UMP_45.webp", 
         "lado":"ambos"
     },
     "M249":{
@@ -167,16 +167,16 @@
         "imagem":"WEAP_Negev.webp", 
         "lado":"ambos"
     },
-    "Mac_10":{
+    "Mac-10":{
         "categoria":"mid", 
         "valor":1050,
-        "imagem":"WEAP_MAC-10.webp", 
+        "imagem":"WEAP_MAC_10.webp", 
         "lado":"tr"
     },
-    "AK_47":{
+    "AK-47":{
         "categoria":"rifle", 
         "valor":2700,
-        "imagem":"WEAP_AK-47.webp", 
+        "imagem":"WEAP_AK_47.webp", 
         "lado":"tr"
     },
     "AUG":{
@@ -203,10 +203,10 @@
         "imagem":"WEAP_M4A4.webp", 
         "lado":"ct"
     },
-    "M4A1_S":{
+    "M4A1-S":{
         "categoria":"rifle", 
         "valor":2900,
-        "imagem":"WEAP_M4A1-S.webp", 
+        "imagem":"WEAP_M4A1_S.webp", 
         "lado":"ct"
     },
     "SG_553":{
@@ -222,16 +222,15 @@
         "lado":"ambos"
     },
     "G3SG1":{
-        "categoria":"utilitaria", 
+        "categoria":"rifle", 
         "valor":5000,
         "imagem":"WEAP_G3SG1.webp", 
         "lado":"tr"
     },
-    "SCAR_20":{
-        "categoria":"utilitaria", 
+    "SCAR-20":{
+        "categoria":"rifle", 
         "valor":5000,
-        "imagem":"WEAP_SCAR-20.webp", 
+        "imagem":"WEAP_SCAR_20.webp", 
         "lado":"ct"
     }
 }
-]
