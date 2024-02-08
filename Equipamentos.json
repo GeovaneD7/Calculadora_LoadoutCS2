@@ -31,7 +31,7 @@
         {"nome": "P90", "valor":2350 , "lado": "ambos", "imagem": "WEAP_P90.webp"},
         {"nome": "UMP-45", "valor":1200 , "lado": "ambos", "imagem": "WEAP_UMP_45.webp"},
         {"nome": "M249", "valor":5200 , "lado": "ambos", "imagem": "WEAP_M249.webp"},
-        {"nome": "Negev", "valor":1700 , "lado": "", "imagem": "WEAP_Negev.webp"},
+        {"nome": "Negev", "valor":1700 , "lado": "ambos", "imagem": "WEAP_Negev.webp"},
         {"nome": "Mac-10", "valor":1050 , "lado":"tr", "imagem":"WEAP_MAC_10.webp"}
     ],
     "Rifles": [
