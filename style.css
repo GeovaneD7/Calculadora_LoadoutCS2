@@ -1,0 +1,22 @@
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.container {
+    display: flex;
+}
+
+.table {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+img {
+    width: 100px;
+    height: auto;
+    margin: 5px;
+}
